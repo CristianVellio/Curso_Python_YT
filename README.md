@@ -1,2 +1,2 @@
-# Curso_Python_Dalto
+# Curso_Python_YT
 Curso Introductorio Python 2024
